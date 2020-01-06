@@ -11,7 +11,7 @@ This folder contains, all the compenents we made, such as :
 + Database Logo, made with Adobe Illustrator CC.
 + Project Report, in French, made with MS Office Word.
 + Project presentation, in French, made with MS Office PowerPoint.
-+ Database Flyers, made with Adobe XS.
++ Database Flyers, made with Adobe XD.
 + Advertising Posters, made with Adobe XD.
 + Class Diagram, made with ArgoUML.
 + Sequence Diagram, made with Visual Paradigm.
