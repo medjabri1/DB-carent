@@ -3,7 +3,7 @@ Carent is a Database project for Car Renting companies, this small project idea 
 
 This project was made in collaboration with my friend and my colleague Mr Ayman MAKHOUKHI, and Mr Abdelilah TAKHTOUKH.
 
-This folder contains, all the compenents we made, such as :
+This repository contains, all the compenents we made, such as :
 + Conceptual Data Model, made with Sybase PowerDesigner.
 + Logical Data Model, made with Sybase PowerDesigner.
 + Screenshots of the Tables and some data records, created with Oracle DataBase Express Edition.
